@@ -11,4 +11,4 @@ Fork of YASPCO-10V with following changes:
 * Same as YAPSC:10V
 
 ## Board Status:
-- Sent to PCB fab
+- Tested, working
